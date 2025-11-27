@@ -31,10 +31,8 @@ O objetivo é evoluir em **lógica**, **pensamento computacional**, **complexida
 - [Outros Desafios](#outros-desafios)
 
 ### 🔹 2. Linguagens Utilizadas
-- JavaScript  
-- Python  
+- Java
 - SQL  
-- Outras linguagens conforme necessário
 
 ### 🔹 3. Template de Resolução  
 - [Modelo para novos desafios](#template-de-resolução)
